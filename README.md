@@ -21,6 +21,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMolon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div class="tenor-gif-embed" data-postid="17807819" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/microsoft-hackathon-hackathon-hackathon2020-microsoft-msft-garage-gif-17807819">Microsoft Hackathon Hackathon GIF</a>from <a href="https://tenor.com/search/microsoft+hackathon-gifs">Microsoft Hackathon GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 ![Snake animation](https://github.com/PedroMolon/PedroMolon/blob/output/github-contribution-grid-snake.svg)

@@ -3,7 +3,7 @@
 # Pedro Molon
 ## Bem vindo ao meu perfil no GitHub, 👏🏻
 
-<p>💻 - Atualmente estou estudando Ciências da Computação na Universidade de Caxias do Sul.<p/>
+<p>💻 - Atualmente estou cursando Engenharia de Software na Universidade de Caxias do Sul.<p/>
 <p>🤔 - Estou procurando aprender e amplicar meus conhecimento, para poder aplicar em uma vaga.</p>
 <p>󠁢󠁲🚩 - Gáucho/Brazil.</p>
 

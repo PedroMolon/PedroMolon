@@ -1,7 +1,7 @@
 # Pedro Molon
 ## Welcome to my GitHub profile , 👏🏻
 
-<p>💻 - Actually, I'm studying Computer Science at University of Caxias do Sul.<p/>
+<p>💻 - Actually, I'm studying Software Engineering at University of Caxias do Sul.<p/>
 <p>🤔 - I'm looking forward applied my knowledges and skills.</p>
 <p>󠁢󠁲🚩 - Gáucho/Brazil.</p>
 

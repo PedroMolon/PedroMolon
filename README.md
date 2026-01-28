@@ -31,6 +31,11 @@ Aqui estão alguns projetos que demonstram minhas habilidades na prática. Sinta
     * **Descrição:** Esta é uma API RESTful para gerenciar projetos e tarefas, desenvolvida como um desafio para dev.matheuslf. O sistema permite que uma equipe de desenvolvimento organize entregas, rastreie o status das tarefas e realize análises simples.
     * **Stack:** Java, Spring Boot, PostgreSQL, Docker.
     * https://github.com/PedroMolon/ProjectAndDemandManagementSystem
+ 
+* **FridgeAI**
+    * **Descrição:** Esta é umma aplicação Spring Boot inteligente projetada para ajudar na gestão de alimentos e na criação de receitas personalizadas. Utilizando Inteligência Artificial, o sistema analisa os itens disponíveis na sua geladeira para sugerir pratos criativos e práticos, evitando o desperdício.
+    * **Stack:** Java, Spring Boot, PostgreSQL, Docker, LangChain4J.
+    * https://github.com/PedroMolon/FridgeAI
 
 ### 💬 Entre em Contato!
 

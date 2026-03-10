@@ -6,9 +6,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um estudante de **Engenharia de Software** apaixonado por transformar desafios em soluções robustas. Minha jornada é focada em desenvolvimento **Back-End** com a criação de APIs e serviços escaláveis. Estou ativamente em busca da minha primeira oportunidade como **Desenvolvedor Júnior** ou **Estagiário**.
-
-Tenho dedicação ao aprendizado contínuo e busco sempre aplicar as melhores práticas de Engenharia de Software (como arquitetura e testes) em meus projetos pessoais.
+Sou um estudante de **Engenharia de Software** com foco em desenvolvimento **Back-End** utilizando o ecossistema **Java** e **Spring Boot**. Experiência prática no desenvolvimento de APIs REST, aplicando princípios de Clean Architecture e SOLID para a construção de código organizado e testável. Familiaridade com containerização (Docker) e persistência de dados em bancos relacionais. Busco minha primeira oportunidade profissional para aplicar meus conhecimentos acadêmicos e projetos pessoais em um ambiente corporativo.
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -26,6 +24,11 @@ Minha principal área de foco é o ecossistema Java, mas estou sempre aberto a n
 ### 📂 Meus Projetos em Destaque
 
 Aqui estão alguns projetos que demonstram minhas habilidades na prática. Sinta-se à vontade para explorar e me dar feedback!
+
+* **MovieFlix**
+    * **Descrição:** Esta é uma API RESTful para gerenciar um catálogo de filmes, a aplicação conta com autenticação baseada em JWT (JSON Web Token) e controle de acesso, permitindo que usuários cadastrados gerenciem seus catálogos de forma segura.
+    * **Stack:** Java, Spring Boot, PostgreSQL, Docker, Spring Security (JWT).
+    * https://github.com/PedroMolon/MovieFlix
 
 * **Project and Demand Management System**
     * **Descrição:** Esta é uma API RESTful para gerenciar projetos e tarefas, desenvolvida como um desafio para dev.matheuslf. O sistema permite que uma equipe de desenvolvimento organize entregas, rastreie o status das tarefas e realize análises simples.

@@ -25,6 +25,12 @@ Minha principal área de foco é o ecossistema Java, mas estou sempre aberto a n
 
 Aqui estão alguns projetos que demonstram minhas habilidades na prática. Sinta-se à vontade para explorar e me dar feedback!
 
+* **DevFootAPI**
+
+    * **Descrição:** Esta é uma API REST moderna e robusta desenvolvida para a gestão de entidades do futebol (clubes, jogadores e estádios). O sistema conta com segurança de nível bancário utilizando OAuth2 Resource Server e tokens JWT assinados com chaves RSA (Criptografia Assimétrica), separação granular de privilégios por escopos (read/write) e validações automáticas com MapStruct e RFC 9457.
+    * **Stack:** Java 21, Spring Boot 3.4, Spring Data JPA, PostgreSQL, Docker, Spring Security (OAuth2/JWT), Flyway, MapStruct, JUnit 5.
+    * https://github.com/PedroMolon/DevFootAPI
+
 * **MovieFlix**
     * **Descrição:** Esta é uma API RESTful para gerenciar um catálogo de filmes, a aplicação conta com autenticação baseada em JWT (JSON Web Token) e controle de acesso, permitindo que usuários cadastrados gerenciem seus catálogos de forma segura.
     * **Stack:** Java, Spring Boot, PostgreSQL, Docker, Spring Security (JWT).

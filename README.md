@@ -27,24 +27,30 @@ Aqui estão alguns projetos que demonstram minhas habilidades na prática. Sinta
 
 * **DevFootAPI**
 
-    * **Descrição:** Esta é uma API REST moderna e robusta desenvolvida para a gestão de entidades do futebol (clubes, jogadores e estádios). O sistema conta com segurança de nível bancário utilizando OAuth2 Resource Server e tokens JWT assinados com chaves RSA (Criptografia Assimétrica), separação granular de privilégios por escopos (read/write) e validações automáticas com MapStruct e RFC 9457.
+    * **Descrição:** API REST moderna para gestão de futebol. Possui segurança de nível bancário com **OAuth2 + JWT RSA**, separação granular de privilégios (scopes) e tratamento global de erros (RFC 9457).
     * **Stack:** Java 21, Spring Boot 3.4, Spring Data JPA, PostgreSQL, Docker, Spring Security (OAuth2/JWT), Flyway, MapStruct, JUnit 5.
     * https://github.com/PedroMolon/DevFootAPI
 
 * **MovieFlix**
-    * **Descrição:** Esta é uma API RESTful para gerenciar um catálogo de filmes, a aplicação conta com autenticação baseada em JWT (JSON Web Token) e controle de acesso, permitindo que usuários cadastrados gerenciem seus catálogos de forma segura.
+    * **Descrição:** Sistema para gerenciamento de catálogo de filmes e streaming. Foca em autenticação segura via **JWT** e controle de acesso para usuários gerenciarem suas mídias.
     * **Stack:** Java, Spring Boot, PostgreSQL, Docker, Spring Security (JWT).
     * https://github.com/PedroMolon/MovieFlix
 
 * **Project and Demand Management System**
-    * **Descrição:** Esta é uma API RESTful para gerenciar projetos e tarefas, desenvolvida como um desafio para dev.matheuslf. O sistema permite que uma equipe de desenvolvimento organize entregas, rastreie o status das tarefas e realize análises simples.
+    * **Descrição:** API para gestão de projetos e tarefas focada em produtividade de equipes. Permite rastreamento de status, organização de entregas e análises de fluxo de trabalho.
     * **Stack:** Java, Spring Boot, PostgreSQL, Docker.
     * https://github.com/PedroMolon/ProjectAndDemandManagementSystem
  
 * **FridgeAI**
-    * **Descrição:** Esta é umma aplicação Spring Boot inteligente projetada para ajudar na gestão de alimentos e na criação de receitas personalizadas. Utilizando Inteligência Artificial, o sistema analisa os itens disponíveis na sua geladeira para sugerir pratos criativos e práticos, evitando o desperdício.
+    * **Descrição:** Aplicação inteligente que usa **IA (Google Gemini)** para gerenciar alimentos e sugerir receitas personalizadas baseadas no que você tem na geladeira, evitando o desperdício.
     * **Stack:** Java, Spring Boot, PostgreSQL, Docker, LangChain4J.
     * https://github.com/PedroMolon/FridgeAI
+
+* **Agregador de Investimentos**
+    * **Descrição:** Gestão centralizada de portfólios com cotações em tempo real via **API Brapi**. Utiliza **Redis** para cache inteligente de preços e **OpenFeign** para integração externa de alta performance.
+    * **Stack:** Java, Spring Boot, Redis, OpenFeign (API Brapi), PostgreSQL, Docker.
+    * https://github.com/PedroMolon/AgregadorDeInvestimentos
+ 
 
 ### 💬 Entre em Contato!
 

@@ -64,13 +64,3 @@ Estou aberto a conexões, colaborações e oportunidades profissionais.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroMolon&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMolon&layout=compact&theme=radical" alt="Top Linguagens" />
-</p>

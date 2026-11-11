@@ -1,6 +1,6 @@
-<h1 align="center">Olá! Eu sou o Pedro Molon</h1>
+<h1 align="center">Pedro Molon</h1>
 
-<h3 align="center">Estudante de Engenharia de Software e Desenvolvedor Back-End | Java | Spring</h3>
+<h3 align="center">Software Engineer | Java | Spring</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-molon-rodrigues-6a1600235/" target="_blank">

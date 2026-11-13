@@ -34,11 +34,11 @@ Minha principal área de foco é o ecossistema Java, mas estou sempre aberto a n
 
 Aqui estão alguns projetos que demonstram minhas habilidades na prática. Sinta-se à vontade para explorar e me dar feedback!
 
-* **DevFootAPI**
+* **ReimburseFlow API**
 
-    * **Descrição:** API REST moderna para gestão de futebol. Possui segurança de nível bancário com **OAuth2 + JWT RSA**, separação granular de privilégios (scopes) e tratamento global de erros (RFC 9457).
-    * **Stack:** Java 21, Spring Boot 3.4, Spring Data JPA, PostgreSQL, Docker, Spring Security (OAuth2/JWT), Flyway, MapStruct, JUnit 5.
-    * https://github.com/PedroMolon/DevFootAPI
+    * **Descrição:** API RESTful para gerenciamento corporativo de solicitações de reembolso, com fluxo de aprovação multinível (colaborador → gestor → financeiro) e rastreabilidade completa de status via auditoria automática.
+    * **Stack:** Java 21, Spring Boot 4+, Spring Security (JWT stateless, perfis ROLE_EMPLOYEE/MANAGER/FINANCIAL), Spring Data JPA, PostgreSQL 16, Flyway, OpenAPI 3 / Swagger UI, JUnit 5, MockMvc, Testcontainers.
+    * https://github.com/PedroMolon/reimburseflow
  
 * **FridgeAI**
     * **Descrição:** Aplicação inteligente que usa **IA (Google Gemini)** para gerenciar alimentos e sugerir receitas personalizadas baseadas no que você tem na geladeira, evitando o desperdício.

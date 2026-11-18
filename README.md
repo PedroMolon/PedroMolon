@@ -39,7 +39,7 @@ Aqui estão alguns projetos que demonstram minhas habilidades na prática. Sinta
     * **Descrição:** API RESTful para gerenciamento corporativo de solicitações de reembolso, com fluxo de aprovação multinível (colaborador → gestor → financeiro) e rastreabilidade completa de status via auditoria automática.
     * **Stack:** Java 21, Spring Boot 4+, Spring Security (JWT stateless, perfis ROLE_EMPLOYEE/MANAGER/FINANCIAL), Spring Data JPA, PostgreSQL 16, Flyway, OpenAPI 3 / Swagger UI, JUnit 5, MockMvc, Testcontainers.
     * https://github.com/PedroMolon/reimburseflow
- 
+
 * **FridgeAI**
     * **Descrição:** Aplicação inteligente que usa **IA (Google Gemini)** para gerenciar alimentos e sugerir receitas personalizadas baseadas no que você tem na geladeira, evitando o desperdício.
     * **Stack:** Java, Spring Boot, PostgreSQL, Docker, LangChain4J.
@@ -49,7 +49,13 @@ Aqui estão alguns projetos que demonstram minhas habilidades na prática. Sinta
     * **Descrição:** Gestão centralizada de portfólios com cotações em tempo real via **API Brapi**. Utiliza **Redis** para cache inteligente de preços e **OpenFeign** para integração externa de alta performance.
     * **Stack:** Java, Spring Boot, Redis, OpenFeign (API Brapi), PostgreSQL, Docker.
     * https://github.com/PedroMolon/AgregadorDeInvestimentos
- 
+
+* **WalletPay API**
+    * **Descrição:** API RESTful para gerenciamento de carteira digital e transferências financeiras Peer-to-Peer (P2P), com foco em precisão monetária (`BigDecimal`), controle de concorrência otimista (`@Version`), atomicidade transacional (`@Transactional`), trilha de auditoria imutável e autenticação stateless com JWT (RSA).
+    * **Stack:** Java 21, Spring Boot, Spring Security (JWT RSA, RBAC), Spring Data JPA, PostgreSQL 16, Flyway, OpenAPI 3 / Swagger UI, JUnit 5, Mockito, Testcontainers, Docker.
+    * https://github.com/PedroMolon/walletpay
+
+---
 
 ### Entre em Contato!
 
